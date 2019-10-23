@@ -10,9 +10,7 @@ https://pazami.github.io/SwiftToesTheGame/
 
 Notes:
 - Changed canvas size to 16:9 ratio.
-
-Issues:
-- It's not ideal to play in full screen with this build.
+- Disabled full screen option for this build as it was causing issues.
 
 ### WebGL v1-2019.10.23
 
