@@ -4,7 +4,7 @@ This repo contains all the release files for the Swift Toes game.
 # Releases
 
 ## Play Now
-https://pazami.github.io/SwiftToesTheGame/
+https://pazami01.github.io/SwiftToesTheGame/
 
 ### WebGL v1.11-2019.11.03
 
@@ -23,4 +23,4 @@ Notes:
 - Initial test release
 
 # Development
-Development repository for Swift Toes: https://github.com/pAzami/SwiftToes
+Development repository for Swift Toes: https://github.com/pazami01/SwiftToes
